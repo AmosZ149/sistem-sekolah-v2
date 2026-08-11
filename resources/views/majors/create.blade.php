@@ -3,9 +3,6 @@
 @section('title', $title)
 
 @section('content')
-    <x-alert type="WARNING">
-        Terdapat kesalahan ketika menambahkan data jurusan baru ke dalam sistem sekolah
-    </x-alert>
 
     <div class="mb-8 border-b border-[#E5E3DB] pb-5">
         <a href="" class="text-xs uppercase tracking-[0.15em] text-slate-400 hover:text-[#A16207]">&larr; Buku
