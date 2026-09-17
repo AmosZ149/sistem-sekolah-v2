@@ -40,7 +40,7 @@
         <div>
             <label for="subject"
                 class="mb-1.5 block text-xs font-semibold uppercase tracking-[0.1em] text-[#16213A]">Mata Pelajaran</label>
-            <input type="text" id="name" name="name" value="Mata pelajaran yang diampu"
+            <input type="text" id="subject" name="subject" value="Mata pelajaran yang diampu"
                 class="w-full border border-[#D9D6CD] bg-[#FCFBF8] px-3.5 py-2.5 text-sm placeholder:text-slate-400 focus:border-[#A16207] focus:bg-white focus:outline-none">
         </div>
 
@@ -56,8 +56,8 @@
                 class="mb-1.5 block text-xs font-semibold uppercase tracking-[0.1em] text-[#16213A]">Status</label>
             <select id="status" name="status"
                 class="w-full border border-[#D9D6CD] bg-[#FCFBF8] px-3.5 py-2.5 text-sm focus:border-[#A16207] focus:bg-white focus:outline-none">
-                <option value="A">Aktif</option>
-                <option value="T">Tidak Aktif</option>
+                <option value="Aktif">Aktif</option>
+                <option value="Tidak Aktif">Tidak Aktif</option>
             </select>
         </div>
 
